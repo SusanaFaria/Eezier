@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Eezier</string>
+    <string name="intro">Start by personalizing your card. Just click on the little dots and choose your settings.
+        Eezy, right?
+        You can add more cards, just click on the + button below. So Eezy!
+    </string>
+
+    <string name="name_required">Name required</string>
+    <string name="name">Name</string>
+    <string name="edit_success">edition successful</string>
+    <string name="edit_fail">edition failed</string>
+</resources>
